@@ -1,0 +1,24 @@
+[33mfbf2acd[m[33m ([m[1;36mHEAD -> [m[1;32mtitle-change[m[33m)[m change titile of HTML file
+[33mf28eaad[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mjaihind[m[33m)[m Updating repo with changes from compare
+[33mb870394[m Adding purpose
+[33m7e130dc[m Adding description
+[33m2ea8cce[m Adding README file
+[33m45b65f6[m excluding log file dirextory
+[33m7886861[m adding git ignore file to exclude unwanted file
+[33mfd23f97[m deleting level1 and all childtren
+[33m18c4986[m Deleting new file
+[33mdb64856[m renaming level1 file
+[33mb6a5d0e[m moving  level2 file back to level 2 directory
+[33m50c88e3[m level 2 to level3
+[33ma593bbf[m ranaming level2
+[33m76620d7[m jao
+[33mb1cbf10[m adding serval file recurviously
+[33mde6fc11[m hello mister jaihind
+[33m6b4a24b[m adding new fil
+[33m6112195[m jaihindjaiswar'
+[33mc359c38[m jaiojkfdk
+[33ma42a6f1[m my first commit
+[33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33me73f914[m Adding Purpose section to README
+[33m34f563b[m Adding README file
+[33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages

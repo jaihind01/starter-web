@@ -4,7 +4,8 @@ gthythyhyby
 fjdfjkfjkfkfjrjijgtjigjtgti
 This repository is for showing how Git and GitHub work
  a dkfjkfsdk lgjtkdgjklg jdkjxibjtgibj ,  
- more achanges to jaihind  adding a line rebase
+ more achanges to jaihind  adding a line rebase, then 
+ more changes from m features branch too
 ## Introduction 
 jaiifhdf
 fkdjfkfdk jkfkjfffjkf
